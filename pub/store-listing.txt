@@ -2,7 +2,7 @@ Title: Toronto TTC Subway - MonTrans…
 ----------
 Short description:
 Toronto TTC subways for MonTransit BETA.
-Schedule. Real-Time. Alerts. News.
+Schedule. Service Alerts. News.
 ----------
 What's new in this version?:
 Schedule from April 1, 2015 to May 9, 2015.
@@ -14,7 +14,7 @@ BETA: Thanks for your patience while the last features are being added and the l
 Full description:
 This app adds Toronto TTC subways information to MonTransit BETA.
 
-This app provides the schedule (offline & real-time) as well as real time service alerts and news from www.ttc.ca, YouTube and @TTCnotices & @TTChelps on Twitter.
+This app provides the schedule as well as real time service alerts and news from www.ttc.ca, YouTube and @TTCnotices & @TTChelps on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -35,7 +35,7 @@ https://github.com/mtransitapps/ca-toronto-ttc-subway-android
 This app is not related with the Toronto Transit Commission and City of Toronto.
 
 Permissions:
-- Other: required for real-time schedule & service alerts from NextBus and to read news from www.ttc.ca, YouTube and Twitter
+- Other: required for real-time service alerts and to read news from www.ttc.ca, YouTube and Twitter
 ----------
 Application type: Applications
 ----------
