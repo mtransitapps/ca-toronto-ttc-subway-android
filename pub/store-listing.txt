@@ -5,7 +5,7 @@ Toronto TTC subways for MonTransit BETA.
 Schedule. Service Alerts. News.
 ----------
 What's new in this version?:
-Schedule from April 1, 2015 to May 9, 2015.
+Schedule from May 10, 2015 to June 20, 2015.
 News from www.ttc.ca.
 Tweets from @TTCnotices & @TTChelps.
 
