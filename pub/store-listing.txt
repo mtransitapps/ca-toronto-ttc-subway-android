@@ -5,7 +5,7 @@ Toronto TTC subways for MonTransit.
 Schedule. Service Alerts. News.
 ----------
 What's new in this version?:
-Schedule from November 20, 2016 to December 27, 2016.
+Schedule from December 18, 2016 to January 7, 2017.
 News from www.ttc.ca.
 Tweets from @TTCnotices & @TTChelps.
 ----------
