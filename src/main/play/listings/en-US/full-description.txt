@@ -1,6 +1,6 @@
 This app adds Toronto TTC subways information to MonTransit.
 
-This app provides the schedule as well as real time service alerts and news from www.ttc.ca and @TTCnotices & @TTChelps on Twitter.
+This app provides the schedule as well as real time service alerts and news @TTCnotices & @TTChelps on Twitter.
 
 TTC subways serve Toronto in Ontario, Canada.
 
@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-toronto-ttc-subway-android
 This app is not related with the Toronto Transit Commission and City of Toronto.
 
 Permissions:
-- Other: required for real-time service alerts and to read news from www.ttc.ca and Twitter
+- Other: required for real-time service alerts and to read news from Twitter
