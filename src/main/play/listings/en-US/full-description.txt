@@ -10,13 +10,13 @@ This application only has a temporary icon: download the MonTransit app (free) i
 
 You can install this application on the SD card but it is not recommended.
 
-The information comes from the GTFS file provided by the City of Toronto.
+The information comes from the GTFS file provided by the Toronto Transit Commission.
 https://open.toronto.ca/dataset/ttc-routes-and-schedules/
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-toronto-ttc-subway-android
 
-This app is not related with the Toronto Transit Commission and City of Toronto.
+This app is not related with the Toronto Transit Commission.
 
 Permissions:
 - Other: required for real-time service alerts and to read news from Twitter
