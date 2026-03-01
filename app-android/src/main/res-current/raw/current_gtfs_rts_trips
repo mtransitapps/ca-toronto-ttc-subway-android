@@ -1,6 +1,10 @@
-101,0,'Finch Sta',1
-100,0,'Vaughan Metropolitan Ctr Sta',1
-200,0,'Kennedy Sta',2
-201,0,'Kipling Sta',2
-400,0,'Don Mills Sta',4
-401,0,'Sheppard-Yonge Sta',4
+101,0,'Finch',1
+100,0,'Vaughan Metropolitan Ctr',1
+200,0,'Kennedy',2
+201,0,'Kipling',2
+400,0,'Don Mills',4
+401,0,'Sheppard-Yonge',4
+500,0,'KENNEDY',5
+501,0,'Mt DENNIS',5
+600,0,'Finch W',6
+601,0,'Humber College',6
