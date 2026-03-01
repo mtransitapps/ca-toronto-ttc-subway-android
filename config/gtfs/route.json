@@ -1,4 +1,16 @@
 {
+  "keep_routes": [
+    {
+      "route_id": "5",
+      "route_short_name": "5",
+      "route_comment": "Light-rail != Streetcars (shown w/ subway on official web site)"
+    },
+    {
+      "route_id": "6",
+      "route_short_name": "6",
+      "route_comment": "Light-rail != Streetcars (shown w/ subway on official web site)"
+    }
+  ],
   "default_route_id_enabled": true,
   "use_route_short_name_for_route_id": true,
   "default_route_long_name_enabled": true,
