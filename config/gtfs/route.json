@@ -1,0 +1,57 @@
+{
+  "default_route_id_enabled": true,
+  "use_route_short_name_for_route_id": true,
+  "default_route_long_name_enabled": true,
+  "route_colors_ignored": [
+    "D5C82B",
+    "008000",
+    "B300B3"
+  ],
+  "route_colors": [
+    {
+      "route_short_name": "1",
+      "color": "FFC72C",
+      "color_comment": "YELLOW"
+    },
+    {
+      "route_short_name": "2",
+      "color": "009A44",
+      "color_comment": "GREEN"
+    },
+    {
+      "route_short_name": "3",
+      "color": "0086D6",
+      "color_comment": "BLUE"
+    },
+    {
+      "route_short_name": "4",
+      "color": "A20067",
+      "color_comment": "PURPLE"
+    },
+    {
+      "route_short_name": "5",
+      "color": "FE5000",
+      "color_comment": "ORANGE"
+    }
+  ],
+  "direction_finder_enabled": true,
+  "stop_name_cleaners": [
+    {
+      "regex": "( - )",
+      "replacement": " "
+    },
+    {
+      "regex": "( towards .*$)",
+      "ignore_case": true
+    },
+    {
+      "regex": "( (platform)$)",
+      "ignore_case": true
+    },
+    {
+      "regex": "subway",
+      "is_word": true,
+      "ignore_case": true
+    }
+  ]
+}
