@@ -1,5 +1,5 @@
 {
-  "exclude_routes_later": [
+  "keep_routes": [
     {
       "route_id": "5",
       "route_short_name": "5",
@@ -47,6 +47,12 @@
     }
   ],
   "direction_finder_enabled": true,
+  "stop_time_excludes": [
+    {
+      "stop_time_headsign_regex": "(Not In Service)",
+      "ignore_case": true
+    }
+  ],
   "stop_name_cleaners": [
     {
       "regex": "( - )",
