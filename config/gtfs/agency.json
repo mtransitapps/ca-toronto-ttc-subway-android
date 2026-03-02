@@ -4,5 +4,8 @@
   "default_color_enabled": true,
   "default_strings_cleaner_enabled": true,
   "to_lower_upper_case_words": true,
-  "to_lower_upper_case_words_comment": "only for trip head-signs for route 5/6?"
+  "to_lower_upper_case_words_comment": "only for trip head-signs for route 5/6",
+  "ignore_upper_case_words": [
+    "TMU"
+  ]
 }
