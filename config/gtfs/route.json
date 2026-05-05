@@ -14,6 +14,13 @@
   "default_route_id_enabled": true,
   "use_route_short_name_for_route_id": true,
   "default_route_long_name_enabled": true,
+  "route_long_name_cleaners": [
+    {
+      "regex": "line \\d+ (\\()?([^\\)]+)(\\))?$",
+      "ignore_case": true,
+      "replacement": "$2"
+    }
+  ],
   "route_colors_ignored": [
     "D5C82B",
     "008000",
@@ -57,10 +64,6 @@
     {
       "regex": "( - )",
       "replacement": " "
-    },
-    {
-      "regex": "( towards .*$)",
-      "ignore_case": true
     },
     {
       "regex": "( (platform)$)",
