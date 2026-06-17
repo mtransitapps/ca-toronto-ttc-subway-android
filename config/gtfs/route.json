@@ -82,18 +82,14 @@
       "replacement": " NB$3"
     },
     {
-      "regex": "(\\s+platform$)",
-      "ignore_case": true
+      "regex": "(\\s+station\\s+-\\s+subway\\s+platform$)",
+      "ignore_case": true,
+      "replacement": " (Subway)"
     },
     {
       "regex": "(\\s+towards\\s+(.*)$)",
       "ignore_case": true,
       "replacement": " (to $2)"
-    },
-    {
-      "regex": "subway",
-      "is_word": true,
-      "ignore_case": true
     }
   ]
 }
