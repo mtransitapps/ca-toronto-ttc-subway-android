@@ -56,18 +56,39 @@
   "direction_finder_enabled": true,
   "stop_time_excludes": [
     {
-      "stop_time_headsign_regex": "(Not In Service)",
+      "stop_time_headsign_regex": "(not in service)",
       "ignore_case": true
     }
   ],
   "stop_name_cleaners": [
     {
-      "regex": "( - )",
-      "replacement": " "
+      "regex": "(\\s+-\\s+eastbound(\\s+platform)?(\\s+|$))",
+      "ignore_case": true,
+      "replacement": " EB$3"
     },
     {
-      "regex": "( (platform)$)",
+      "regex": "(\\s+-\\s+westbound(\\s+platform)?(\\s+|$))",
+      "ignore_case": true,
+      "replacement": " WB$3"
+    },
+    {
+      "regex": "(\\s+-\\s+southbound(\\s+platform)?(\\s+|$))",
+      "ignore_case": true,
+      "replacement": " SB$3"
+    },
+    {
+      "regex": "(\\s+-\\s+northbound(\\s+platform)?(\\s+|$))",
+      "ignore_case": true,
+      "replacement": " NB$3"
+    },
+    {
+      "regex": "(\\s+platform$)",
       "ignore_case": true
+    },
+    {
+      "regex": "(\\s+towards\\s+(.*)$)",
+      "ignore_case": true,
+      "replacement": " (to $2)"
     },
     {
       "regex": "subway",
